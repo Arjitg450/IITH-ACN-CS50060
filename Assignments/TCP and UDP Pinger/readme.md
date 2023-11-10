@@ -1,1 +1,27 @@
-a
+﻿The programs are for ping using UDP and TCP with some variations like including loss at program level and at NIC level.
+
+
+There are two parts namely
+
+
+PART-1 and PART-2
+
+
+PART-1 Contains 3 files
+
+
+UDPPingerServer.py
+UDPPingerClient.py
+UDPPingerModifiedServer.py
+
+
+—---------------------------------------------------------------------
+
+
+PART-2 contains 4 files
+
+
+TCPPingerServer.py
+TCPPingerClient.py
+TCPPingerModifiedServer.py
+TCPPingerConcurrentServer.py
